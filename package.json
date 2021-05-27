@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server",
-    "build": "node server.js"
+    "dev": "nodemon server"
   },
   "author": "Yamkela Mahlathi",
   "license": "MIT",
